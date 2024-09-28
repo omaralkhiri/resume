@@ -47,12 +47,15 @@ CHAMS, Amman, Jordan
 
 ### **Qawn**  
 *Nov 2023 – Present*  
-- A digital financial platform offering a suite of features like ATM access, money transfers, and secure transactions.
+- Qawn is the easiest digital financial platform for paying your bills. You can initiate a chat to send or receive money through it, transforming traditional banking into a friendlier experience. Qawn offers a comprehensive suite of features, including ATM access, instant money transfers, IBAN support, secure money transactions, and more.
 
 ### **Arena**  
 *Jan 2023 – Jul 2023*  
-- Developed a comprehensive system to automate and streamline banking processes and internal workflows.
+- A comprehensive and integrated system designed to streamline and automate the bank's internal processes and workflows. It serves as the central hub for all of the bank's internal operations, providing employees with easy access to tools and information for efficient job performance. Modules may include account management, loan processing, transaction monitoring, customer relationship management, risk management, and compliance monitoring, among others.
 
+### **Open Banking** 
+*Jan 2023 – Jul 2023* 
+- Open banking, also known as "open bank data," is a banking practice that provides third-party financial service providers open access to consumer banking, transaction, and other financial data from banks and non-bank financial institutions through the use of application programming interfaces (APIs).
 ---
 
 ## Certifications
