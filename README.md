@@ -1,6 +1,6 @@
 # Omar Alkhiri
 
-![Omar Alkhiri](https://raw.githubusercontent.com/omaralkhiri/resume/main/omar.jpg)  
+![Omar Alkhiri](https://raw.githubusercontent.com/omaralkhiri/resume/main/omar.png)  
 
 **DevOps Engineer**  
 Email: [omar_alkhairy97@hotmail.com](mailto:omar_alkhairy97@hotmail.com)  
