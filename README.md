@@ -56,6 +56,7 @@ CHAMS, Amman, Jordan
 ### **Open Banking** 
 *Jan 2023 – Jul 2023* 
 - Open banking, also known as "open bank data," is a banking practice that provides third-party financial service providers open access to consumer banking, transaction, and other financial data from banks and non-bank financial institutions through the use of application programming interfaces (APIs).
+
 ---
 
 ## Certifications
