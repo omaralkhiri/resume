@@ -1,4 +1,5 @@
 # _config.yml
 theme: jekyll-theme-cayman
 title: Omar Alkhiri Resume
+description: Omar Alkhiri is an experienced engineer working on automating cloud infrastructure with AWS services, Kubernetes, and Step Functions. He focuses on streamlining workflows and optimizing resource management across cloud environments.
 repository: omaralkhiri/resume
